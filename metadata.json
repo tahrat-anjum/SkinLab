@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Zeng - Premium Personal Care",
+  "description": "Authentic Dr. Zeng Armpit Deodorant Cream official product store with instant checkout, Bengali & English localized interface, and full order management backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
